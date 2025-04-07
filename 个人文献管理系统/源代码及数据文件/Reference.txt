@@ -1,0 +1,8 @@
+7
+01/DOI	title2	book2	2000	Article	4 A B C F
+03/DOI	title3	book3	2010	Article	2 A C
+04/DOI	title3	book3	2010	Article	1 A
+05/DOI	title6	book3	2003	Review	2 D M
+06/DOI	title	bhu	1999	Article	1 B
+07/DOI	007	bok1	2032	Review	5 F R E D C
+08/DOI	Gku	nbv	1998	Review	3 B N H
